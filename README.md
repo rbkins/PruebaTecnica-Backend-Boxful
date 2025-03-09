@@ -35,7 +35,7 @@ El backend ya está configurado para conectarse a MongoDB Atlas. No es necesario
 
 ## Ejecución del servidor
 
-Para ejecutar el servidor en modo desarrollo:
+Para ejecutar el servidor en modo desarrollo (Recomendable):
 
 ```sh
 npm run start:dev
