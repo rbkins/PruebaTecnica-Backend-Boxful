@@ -16,12 +16,17 @@ Clona este repositorio y accede a la carpeta del backend:
 https://github.com/rbkins/PruebaTecnica-Backend-Boxful.git
 ```
 
-Instala las dependencias necesarias con npm o yarn:
+Instala las dependencias necesarias con npm o yarn, tambien instala nest y class-validator para que funcione.:
 
 ```sh
 npm install
 # o
 yarn install
+
+npm install @nestjs/config
+
+npm install class-validator class-transformer
+
 ```
 
 ## Configuración
